@@ -1,0 +1,74 @@
+.contenedorBase{
+    background-color:#F4F2DE;
+    border: 3px solid #E2C799;
+    width: 99%;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+h3{
+    text-align: left;
+    margin-left: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4{
+    margin-left: 15px;
+    font-family:Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+p{
+    text-align: left;
+    vertical-align: text-bottom;
+    margin-left: 15px;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contenedorYoutube{
+    text-align: left;
+}
+
+iframe{
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#imagen{
+    margin: 10px;
+    width: 150px;
+    height: 150px;  
+    border: 2px solid #E2C799;
+    border-radius: 100px; 
+}
+
+.iconoCanal{
+    text-align: right;
+    /*alinear de forma vertical los elementos*/
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.paragraph {
+    width: 80%; /* Cada párrafo ocupa el 80% del ancho del contenedor */
+    float: left; /* Flotar los párrafos a la izquierda */
+    box-sizing: border-box; /* Incluir el padding y border en el ancho */
+    padding: 10px; /* Espaciado interno para los párrafos */
+  }
+
+
+.iconoCanal2{
+    text-align: left;
+    margin-left: 10px;
+    /*alinear de forma vertical los elementos*/
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.paragraph2 {
+    width: 80%; /* Cada párrafo ocupa el 80% del ancho del contenedor */
+    float: right; /* Flotar los párrafos a la izquierda */
+    box-sizing: border-box; /* Incluir el padding y border en el ancho */
+    padding: 10px; /* Espaciado interno para los párrafos */
+  }

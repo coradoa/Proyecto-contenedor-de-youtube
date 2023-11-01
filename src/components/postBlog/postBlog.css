@@ -1,0 +1,30 @@
+.imgs{
+    margin: 5px;
+    width: 50%;
+    height:50%;
+    overflow: hidden;
+    transform-origin: left center; /* Define el punto de origen de la transformación */
+
+}
+
+p{
+    font-family: Courier, monospace;
+    color: #413543;
+}
+
+.columna{
+    background-color:#BFCCB5;
+    border: 5px solid #E1D4BB;
+}
+
+.button1{
+        padding: 10px 10px;
+        font-size: 1em;
+        font-family: 'Gill Sans MT';
+        border: none;
+        background-color: #F5F5F5;
+        color: #3F2305;
+        border-radius: 15px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+}

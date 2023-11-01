@@ -1,0 +1,39 @@
+.contenedorBase{
+    background-color:antiquewhite;
+    border: 3px solid black;
+    width: 70%;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+h3,h4{
+    text-align: left;
+    margin-left: 15px;
+}
+
+p{
+    text-align: left;
+    margin-left: 15px;
+}
+
+.contenedorYoutube{
+    text-align: left;
+}
+
+iframe{
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#imagen{
+    width: 40px;
+    height: 40px;  
+    border: 2px solid black;
+    border-radius: 50px; 
+}
+
+.iconoCanal{
+    display: inline-block;
+    /*alinear de forma vertical los elementos*/
+    vertical-align: middle;
+}
